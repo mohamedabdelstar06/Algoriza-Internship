@@ -1,0 +1,14 @@
+C:\Users\MK\source\repos\Algoriza_Day1\Algoriza_Day1\bin\Debug\net9.0\Algoriza_Day1.exe
+C:\Users\MK\source\repos\Algoriza_Day1\Algoriza_Day1\obj\Debug\net9.0\Algoriza_Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MK\source\repos\Algoriza_Day1\Algoriza_Day1\obj\Debug\net9.0\Algoriza_Day1.AssemblyInfoInputs.cache
+C:\Users\MK\source\repos\Algoriza_Day1\Algoriza_Day1\obj\Debug\net9.0\Algoriza_Day1.AssemblyInfo.cs
+C:\Users\MK\source\repos\Algoriza_Day1\Algoriza_Day1\obj\Debug\net9.0\Algoriza_Day1.csproj.CoreCompileInputs.cache
+C:\Users\MK\source\repos\Algoriza_Day1\Algoriza_Day1\obj\Debug\net9.0\Algoriza_Day1.dll
+C:\Users\MK\source\repos\Algoriza_Day1\Algoriza_Day1\obj\Debug\net9.0\refint\Algoriza_Day1.dll
+C:\Users\MK\source\repos\Algoriza_Day1\Algoriza_Day1\obj\Debug\net9.0\Algoriza_Day1.pdb
+C:\Users\MK\source\repos\Algoriza_Day1\Algoriza_Day1\bin\Debug\net9.0\Algoriza_Day1.deps.json
+C:\Users\MK\source\repos\Algoriza_Day1\Algoriza_Day1\bin\Debug\net9.0\Algoriza_Day1.runtimeconfig.json
+C:\Users\MK\source\repos\Algoriza_Day1\Algoriza_Day1\bin\Debug\net9.0\Algoriza_Day1.dll
+C:\Users\MK\source\repos\Algoriza_Day1\Algoriza_Day1\bin\Debug\net9.0\Algoriza_Day1.pdb
+C:\Users\MK\source\repos\Algoriza_Day1\Algoriza_Day1\obj\Debug\net9.0\Algoriza_Day1.genruntimeconfig.cache
+C:\Users\MK\source\repos\Algoriza_Day1\Algoriza_Day1\obj\Debug\net9.0\ref\Algoriza_Day1.dll
