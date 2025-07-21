@@ -1,61 +1,61 @@
 ﻿#region string Format 
 ////string Format
-//using System.Text;
-//using static System.Runtime.InteropServices.JavaScript.JSType;
+using System.Text;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
-//var message = string.Format("There are {0} Computers", 9); //first way
-//Console.WriteLine(message);
-
-
-//var strbuilder = new StringBuilder("");
-//strbuilder.AppendFormat("There are {0} users online ", 5); //secound way
-//Console.WriteLine(strbuilder);
-//Console.WriteLine(strbuilder.Length);
-//Console.WriteLine(strbuilder.Replace('e', 'M'));
+var message = string.Format("There are {0} Computers", 9); //first way
+Console.WriteLine(message);
 
 
-//Console.WriteLine("There are {0} Computers", 9); // theird way
+var strbuilder = new StringBuilder("");
+strbuilder.AppendFormat("There are {0} users online ", 5); //secound way
+Console.WriteLine(strbuilder);
+Console.WriteLine(strbuilder.Length);
+Console.WriteLine(strbuilder.Replace('e', 'M'));
 
-//var total = 114;
-//Console.WriteLine("There are {0} Computers", total); //fourth 
 
-//Console.WriteLine("-------------------------------------------");
+Console.WriteLine("There are {0} Computers", 9); // theird way
 
-//Console.WriteLine("Number : {0:N}", 90);// 90.00
-//Console.WriteLine("Number : {0:C}", 90);   // $90.00
+var total = 114;
+Console.WriteLine("There are {0} Computers", total); //fourth 
 
-//Console.WriteLine("Number : {0:P}", 0.90); //90.00%
+Console.WriteLine("-------------------------------------------");
 
-//Console.WriteLine("Number : {0:D7}", 1000); // 0001000
+Console.WriteLine("Number : {0:N}", 90);// 90.00
+Console.WriteLine("Number : {0:C}", 90);   // $90.00
 
-//Console.WriteLine("Number : {0:X}", 9456780); //  904C8C
+Console.WriteLine("Number : {0:P}", 0.90); //90.00%
+
+Console.WriteLine("Number : {0:D7}", 1000); // 0001000
+
+Console.WriteLine("Number : {0:X}", 9456780); //  904C8C
 #endregion
 
 #region String Interpolation 
-//var onlineUsers = 7;
+var onlineUsers = 7;
 //var totalUsers = 1500;
-//Console.WriteLine($" Total user is {totalUsers} and the online users is {onlineUsers}");
+Console.WriteLine($" Total user is {totalUsers} and the online users is {onlineUsers}");
 #endregion
 
 #region DateTime 
 
-//DateTime dateTime = DateTime.Now;
-//Console.WriteLine(dateTime);
+DateTime dateTime = DateTime.Now;
+Console.WriteLine(dateTime);
 
-//string formattedDate = string.Format("Date is {0:yy-MM-dd MMMM dddd HH:mm:ss tt}", dateTime);
+string formattedDate = string.Format("Date is {0:yy-MM-dd MMMM dddd HH:mm:ss tt}", dateTime);
 
-//string formattedDate2 = $"Date is {dateTime: yy-MM-dd MMMM dddd HH:mm:ss tt}";
-//Console.WriteLine(formattedDate);
-//Console.WriteLine(formattedDate2);
+string formattedDate2 = $"Date is {dateTime: yy-MM-dd MMMM dddd HH:mm:ss tt}";
+Console.WriteLine(formattedDate);
+Console.WriteLine(formattedDate2);
 ///////////////////////////////////////////////////////////////////
 using System;
 using System.Security.Cryptography.X509Certificates;
 using System.Xml;
 
-//DateTime dateTime1 = new DateTime(2025, 07, 8);
+DateTime dateTime1 = new DateTime(2025, 07, 8);
 
-//string formattedDate = string.Format("Date is {0:yy-MM-dd MMMM dddd HH:mm:ss tt}", dateTime1);
-//Console.WriteLine(dateTime1);
+string formattedDate = string.Format("Date is {0:yy-MM-dd MMMM dddd HH:mm:ss tt}", dateTime1);
+Console.WriteLine(dateTime1);
 
 
 
