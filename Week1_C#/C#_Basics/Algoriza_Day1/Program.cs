@@ -172,57 +172,56 @@ Console.WriteLine(dateTime1);
 #endregion
 
 #region Conditional Statement 
-//int x = 7, y =7;
-//if (x>y)
-//{
-//    Console.WriteLine($"x is greater than y");
-//}
-//else if(x<y)
-//{
-//    Console.WriteLine($"x is less than y");
-//}
-//else if ( x == y )
-//{
-//    Console.WriteLine($"x equal to y");
-//}
+int x = 7, y =7;
+if (x>y)
+{
+    Console.WriteLine($"x is greater than y");
+}
+else if(x<y)
+{
+    Console.WriteLine($"x is less than y");
+}
+else if ( x == y )
+{
+    Console.WriteLine($"x equal to y");
+}
 
 #endregion
 
 #region Nested IF 
+Console.WriteLine("Enter the value of x");
+int x = int.Parse(Console.ReadLine());
+Console.WriteLine("Enter the value of y");
+int y = int.Parse(Console.ReadLine());
 
-//Console.WriteLine("Enter the value of x");
-//int x = int.Parse(Console.ReadLine());
-//Console.WriteLine("Enter the value of y");
-//int y = int.Parse(Console.ReadLine());
-
-//if(x == y)
-//{
-//    Console.WriteLine("X is equal to y");
-//}else 
-//{
-//    if (x>y)
-//    { 
-//            Console.WriteLine("x is greater than y");
-//    }else
-//    { 
-//        Console.WriteLine("x is lower than y ");
-//    }
-//}
+if(x == y)
+{
+    Console.WriteLine("X is equal to y");
+}else 
+{
+    if (x>y)
+    { 
+            Console.WriteLine("x is greater than y");
+    }else
+    { 
+        Console.WriteLine("x is lower than y ");
+    }
+}
 #endregion
 
 #region Logical Operators 
-//Console.WriteLine("Are you have licencs ?");
-//bool hasLicense = bool.Parse(Console.ReadLine());
-//Console.WriteLine("Are you know how ? ");
-//bool knowWho = bool.Parse(Console.ReadLine());
+Console.WriteLine("Are you have licencs ?");
+bool hasLicense = bool.Parse(Console.ReadLine());
+Console.WriteLine("Are you know how ? ");
+bool knowWho = bool.Parse(Console.ReadLine());
 
 //// And Opeator
-//if (hasLicense && knowWho)
-//{
-//    Console.WriteLine("Good");
-//}
-//else if (hasLicense && !knowWho)
-//{
+if (hasLicense && knowWho)
+{
+    Console.WriteLine("Good");
+}
+else if (hasLicense && !knowWho)
+{
 //    Console.WriteLine("Bad");
 //}
 //else if (!hasLicense && !knowWho)
@@ -264,178 +263,167 @@ Console.WriteLine(dateTime1);
 //    Console.WriteLine("Invalid UserName / Password");
 //}
 #endregion
-
 #region Ternary Operator
-//int x = 10, y = 100;
-//if (x>y)
-//{
-//    Console.WriteLine($"x is greater than y");
-//}
-//else
-//{
-//    Console.WriteLine($"x is less than y");
-//}
+int x = 10, y = 100;
+if (x > y)
+{
+    Console.WriteLine($"x is greater than y");
+}
+else
+{
+    Console.WriteLine($"x is less than y");
+}
 
 // The new way Ternary Operator
+Console.WriteLine((x > y) ? "x is greater than y" : "x is less than y");
 
-//Console.WriteLine((x>y) ? "x is greater than y" : "x is less than y");
+Console.WriteLine("Enter to determine this number is even or odd");
 
-//Console.WriteLine("Enter to determine this number is even or odd");
+int z = int.Parse(Console.ReadLine());
 
-//int z = int.Parse(Console.ReadLine());
-
-
-//Console.WriteLine((z %2 ==0 )? "z is even " : "z is odd");
-
+Console.WriteLine((z % 2 == 0) ? "z is even " : "z is odd");
 #endregion
 
 #region Switch Statement 
-//Console.WriteLine("Street Status");
-//var currentTrafficLight = decimal.Parse(Console.ReadLine());
-//switch (currentTrafficLight)
-//{
-//    case <= 20.0m:
-//        Console.WriteLine("The weather is cold ");
-//        break;
-//    case <= 30.0m:
-//        Console.WriteLine("The weather is worm");
-//        break;
-//    case >30.0m:
-//        Console.WriteLine("The weather is Hot");
-//        break;
-//}
+Console.WriteLine("Street Status");
+var currentTrafficLight = decimal.Parse(Console.ReadLine());
+switch (currentTrafficLight)
+{
+    case <= 20.0m:
+        Console.WriteLine("The weather is cold ");
+        break;
+    case <= 30.0m:
+        Console.WriteLine("The weather is worm");
+        break;
+    case > 30.0m:
+        Console.WriteLine("The weather is Hot");
+        break;
+}
 
+// Switch Expression
+var message = currentTrafficLight switch
+{
+    10 => "STOP",
+    20 => "Pass",
+    30 => "Slow Down",
+    _ => "Unknown"
+};
 
-/// Switch Expression
-//var message = currentTrafficLight switch
-//{
-//    "Red" => "STOP",
-//    "Green" =>"Pass",
-//    "Yellow" =>"Slow Down",
-//};
-
-//Console.WriteLine(message);
+Console.WriteLine(message);
 #endregion
 
 #region Nullable Type
-//string? number1 = null; // first way
-//Nullable<int> number2 = null;  //second way
+string? number1 = null; // first way
+Nullable<int> number2 = null;  //second way
 
-//Null Coalescing Operator
-//double? number3 = 150;
-//double total = number3 ?? 0; // Null Coalescing return the value if exist if not exist return Null
-//Console.WriteLine(total);
+// Null Coalescing Operator
+double? number3 = 150;
+double total = number3 ?? 0; // Null Coalescing return the value if exist if not exist return Null
+Console.WriteLine(total);
 
-//string message = "null";
-//string result = message ?? "No new messages";
-
-//Console.WriteLine(result);
-
+string msg = "null";
+string result = msg ?? "No new messages";
+Console.WriteLine(result);
 
 // Try Parse
-//int x = int.Parse(Console.ReadLine());
-//int.TryParse(Console.ReadLine(), out int x);
-//Console.WriteLine(x);
-//Console.WriteLine(x==0 ? "In valid operator" : $"your number is :{x}");
+int.TryParse(Console.ReadLine(), out int parsedNumber);
+Console.WriteLine(parsedNumber);
+Console.WriteLine(parsedNumber == 0 ? "In valid operator" : $"your number is :{parsedNumber}");
 #endregion
 
-#region  String Manipulation 
-//string moveName = "    loard of the RINGS     ";
+#region String Manipulation 
+string moveName = "    loard of the RINGS     ";
 
-////Trim 
-//Console.WriteLine(moveName.Trim());
+// Trim 
+Console.WriteLine(moveName.Trim());
 
-////Indexes 
-//Console.WriteLine(moveName[18]);
+// Indexes 
+Console.WriteLine(moveName[18]);
 
-////UpperCase
-//Console.WriteLine(moveName.ToUpper().Trim());
+// UpperCase
+Console.WriteLine(moveName.ToUpper().Trim());
 
-////LowerCase
-//Console.WriteLine(moveName.ToLower().Trim());
+// LowerCase
+Console.WriteLine(moveName.ToLower().Trim());
 
-////Length
-//Console.WriteLine(moveName.Trim().Length);
-//Console.WriteLine(moveName.Length);
+// Length
+Console.WriteLine(moveName.Trim().Length);
+Console.WriteLine(moveName.Length);
 
-////Replace
-//Console.WriteLine(moveName.Replace("loard", "Mohamed Abdelstar"));
-//Console.WriteLine(moveName.Replace('l', 'L'));
+// Replace
+Console.WriteLine(moveName.Replace("loard", "Mohamed Abdelstar"));
+Console.WriteLine(moveName.Replace('l', 'L'));
 
-////Index of
-//Console.WriteLine(moveName.IndexOf('S'));
+// Index of
+Console.WriteLine(moveName.IndexOf('S'));
 
-////Last Index of 
-//Console.WriteLine(moveName.Trim().Substring(4));
+// Last Index of 
+Console.WriteLine(moveName.Trim().Substring(4));
 
-////Insert
-//Console.WriteLine(moveName.Trim().Insert(0, "The ").Insert( 22, "??"));
+// Insert
+Console.WriteLine(moveName.Trim().Insert(0, "The ").Insert(22, "??"));
 
-////Contains
-//if(moveName.Contains("loard"))
-//{
-//    Console.WriteLine(moveName);
-//}
-
-
+// Contains
+if (moveName.Contains("loard"))
+{
+    Console.WriteLine(moveName);
+}
 #endregion
 
 #region Interpolated verbatim string 
-//string normalString = "Build completed at 11:05 AM  and took 00.970 seconds";
-//string verbatimString = $@"Build completed at {normalString} https:/drive.google.com/drive/folders/1zEHYH716qpQRJ62tn3RhhtQKheV1qTHo
-//11:05 AM and took 
-//00.970 seconds";
+string normalString = "Build completed at 11:05 AM  and took 00.970 seconds";
+string verbatimString = $@"Build completed at {normalString} https:/drive.google.com/drive/folders/1zEHYH716qpQRJ62tn3RhhtQKheV1qTHo
+11:05 AM and took 
+00.970 seconds";
 
-//Console.WriteLine(normalString);
-//Console.WriteLine(verbatimString);
-//const int eee=1;
-
+Console.WriteLine(normalString);
+Console.WriteLine(verbatimString);
+const int eee = 1;
 #endregion
 
 #region For Loop 
-//for( Initialization; Condition ; Iterator )
-//{
-//    body of for loop
-//}
+// for( Initialization; Condition ; Iterator )
+// {
+//     body of for loop
+// }
 
-//for (int i = 5; i <= 10; i++)
-//{
-//    Console.WriteLine(i);
-//}
+for (int i = 5; i <= 10; i++)
+{
+    Console.WriteLine(i);
+}
 
-//int number = 9, sum = 0;
-//for (int i = 0; i< number; i++)
-//{
-//    sum +=i;
+int number = 9, sum = 0;
+for (int i = 0; i < number; i++)
+{
+    sum += i;
+}
+Console.WriteLine($"The Sum = {sum}");
 
-//}
-//Console.WriteLine($"The Sum ={sum}");
+int k = 1;
+for (; k <= 5;)
+{
+    Console.WriteLine("For loop K = " + k);
+    k++;
+}
 
-//int k = 1;
-//for(; k <=5;)
-//{
-//    Console.WriteLine("For loop K = " +k);
-//    k++;
-//}
-//for (int i = 20; i > 0; i--)
-//{
-//    Console.WriteLine(i);
-//}
+for (int i = 20; i > 0; i--)
+{
+    Console.WriteLine(i);
+}
 
+// Infinite loop (not recommended to run)
+// for (byte i = 1; i > 0; i++)
+// {
+//     Console.WriteLine($"The Iteration {i}");
+//     // Condition to terminate loop
+// }
 
-//Infinite loop
-//for (byte i = 1; i>0; i++)
-//{
-//    Console.WriteLine($"The Iteration {i}");
-//    //Condition to terminate loop
-
-//}
-
-//for (int i = 0, j = 0; i+j < 50; i++, j--)
-//{
-//    Console.WriteLine($"I value is = {i}, J Value is {j}");
-//}
+for (int i = 0, j = 0; i + j < 50; i++, j--)
+{
+    Console.WriteLine($"I value is = {i}, J Value is {j}");
+}
 #endregion
+
 
 #region While Loop 
 //int i = 1;
