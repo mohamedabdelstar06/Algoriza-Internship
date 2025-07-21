@@ -1,0 +1,140 @@
+ #Mohamed{
+  color: rgb(9, 173, 36);
+  direction: rtl;
+  font-family: "Playpen Sans Arabic", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+  border: red 10px ;
+  text-align: center;
+  border-style: double;
+  padding: 10px;
+  margin: auto;
+  
+  margin-bottom: 5px;
+}
+*{
+    margin:0;
+    padding: 0;
+
+}
+
+/* start header section */
+
+.header{
+    height: 600px;
+    font-family: cursive;
+    background-image: url(../img/66.jpg);
+    background-size: cover;
+
+}
+nav a {
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+  padding-left: 30px;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+nav {
+  display: flex;
+  justify-content: center;  /* أفقي */
+  
+  /* height: 100vh;           */
+}
+
+
+.center{
+    
+    text-align: center;
+    margin: 100px;
+    
+}
+button{
+    margin-top: 10px;
+    padding: 10px 40px;
+    margin-left: 20px;
+    font-size: 19px;
+    color :White;
+    background-color: darkorchid;
+    border: none;
+    border-radius: 20px;
+
+}
+.center h2{
+    padding-top: 5%;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+    font-size: 36px;
+    
+    
+}
+/* End header section */
+
+/* start media section */
+.media-center{
+text-align: center;
+}
+.media-center h2{
+text-align: center;
+padding: 5px;
+font-family: cursive;
+
+}
+.media-center p{
+    font-size:20px ;
+    letter-spacing: 2px;
+    padding-top: 10px;
+    font-family: cursive;
+}
+.media-center img {
+padding: 30px;
+border-radius: 50px;
+}
+.About-section {
+  width: 100%;
+  padding: 30px;
+}
+
+.section {
+  width: 100%;
+  overflow: hidden; /* عشان نمنع مشاكل float */
+  margin-bottom: 50px;
+}
+
+.left-img {
+  float: left;
+  width: 400px;
+  
+  border-radius: 20px;
+  margin-right: 230px;
+  margin-left: 200px;
+}
+
+.right-img {
+  float: right;
+  width: 400px;
+  border-radius: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.text {
+  overflow: hidden;
+  padding-top: 455px;
+}
+
+.text h2 {
+  font-family: cursive;
+  margin-bottom: 10px;
+}
+
+.text p {
+  font-size: 18px;
+  font-family: cursive;
+  letter-spacing: 1px;
+}
+#text2{
+    margin-left: 220px;
+    padding-bottom: 90px;
+}
