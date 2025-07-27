@@ -1,0 +1,11 @@
+
+
+/* selector{
+    property:property Value;
+    This is declaration
+    W3C Selector
+} */
+*{
+    padding: 0;
+    margin: 0;
+}
