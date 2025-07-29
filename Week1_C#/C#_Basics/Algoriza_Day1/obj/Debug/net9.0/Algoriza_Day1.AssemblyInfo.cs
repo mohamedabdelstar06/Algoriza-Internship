@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Algoriza_Day1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+685f9aae029113b20bf15c490b0dfd86430ed90b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d8f6eca16d8227f8b9227264f0a4dd9bc93acc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Algoriza_Day1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Algoriza_Day1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
