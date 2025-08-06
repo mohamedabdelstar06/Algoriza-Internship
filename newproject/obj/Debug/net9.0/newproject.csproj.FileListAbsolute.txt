@@ -1,0 +1,15 @@
+C:\Users\MK\Downloads\Algoriza Internship\newproject\obj\Debug\net9.0\newproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MK\Downloads\Algoriza Internship\newproject\obj\Debug\net9.0\newproject.AssemblyInfoInputs.cache
+C:\Users\MK\Downloads\Algoriza Internship\newproject\obj\Debug\net9.0\newproject.AssemblyInfo.cs
+C:\Users\MK\Downloads\Algoriza Internship\newproject\obj\Debug\net9.0\newproject.csproj.CoreCompileInputs.cache
+C:\Users\MK\Downloads\Algoriza Internship\newproject\obj\Debug\net9.0\newproject.sourcelink.json
+C:\Users\MK\Downloads\Algoriza Internship\newproject\bin\Debug\net9.0\newproject.exe
+C:\Users\MK\Downloads\Algoriza Internship\newproject\bin\Debug\net9.0\newproject.deps.json
+C:\Users\MK\Downloads\Algoriza Internship\newproject\bin\Debug\net9.0\newproject.runtimeconfig.json
+C:\Users\MK\Downloads\Algoriza Internship\newproject\bin\Debug\net9.0\newproject.dll
+C:\Users\MK\Downloads\Algoriza Internship\newproject\bin\Debug\net9.0\newproject.pdb
+C:\Users\MK\Downloads\Algoriza Internship\newproject\obj\Debug\net9.0\newproject.dll
+C:\Users\MK\Downloads\Algoriza Internship\newproject\obj\Debug\net9.0\refint\newproject.dll
+C:\Users\MK\Downloads\Algoriza Internship\newproject\obj\Debug\net9.0\newproject.pdb
+C:\Users\MK\Downloads\Algoriza Internship\newproject\obj\Debug\net9.0\newproject.genruntimeconfig.cache
+C:\Users\MK\Downloads\Algoriza Internship\newproject\obj\Debug\net9.0\ref\newproject.dll
