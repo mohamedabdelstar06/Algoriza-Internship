@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MK\\source\\repos\\LinQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF1C0B5-0EB0-4FEC-ACAE-8135B18909D7}|LinQ\\EF_Core.csproj|c:\\users\\mk\\source\\repos\\linq\\linq\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF1C0B5-0EB0-4FEC-ACAE-8135B18909D7}|LinQ\\EF_Core.csproj|solutionrelative:linq\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF1C0B5-0EB0-4FEC-ACAE-8135B18909D7}|LinQ\\EF_Core.csproj|c:\\users\\mk\\source\\repos\\linq\\linq\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF1C0B5-0EB0-4FEC-ACAE-8135B18909D7}|LinQ\\EF_Core.csproj|solutionrelative:linq\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF1C0B5-0EB0-4FEC-ACAE-8135B18909D7}|LinQ\\EF_Core.csproj|c:\\users\\mk\\source\\repos\\linq\\linq\\migrations\\20250808115119_harray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF1C0B5-0EB0-4FEC-ACAE-8135B18909D7}|LinQ\\EF_Core.csproj|solutionrelative:linq\\migrations\\20250808115119_harray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808114851_Harray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LinQ\\Migrations\\20250808114851_Harray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF1C0B5-0EB0-4FEC-ACAE-8135B18909D7}|LinQ\\EF_Core.csproj|c:\\users\\mk\\source\\repos\\linq\\linq\\models\\blogimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF1C0B5-0EB0-4FEC-ACAE-8135B18909D7}|LinQ\\EF_Core.csproj|solutionrelative:linq\\models\\blogimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF1C0B5-0EB0-4FEC-ACAE-8135B18909D7}|LinQ\\EF_Core.csproj|c:\\users\\mk\\source\\repos\\linq\\linq\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF1C0B5-0EB0-4FEC-ACAE-8135B18909D7}|LinQ\\EF_Core.csproj|solutionrelative:linq\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808114431_ONEToMany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LinQ\\Migrations\\20250808114431_ONEToMany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF1C0B5-0EB0-4FEC-ACAE-8135B18909D7}|LinQ\\EF_Core.csproj|c:\\users\\mk\\source\\repos\\linq\\linq\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF1C0B5-0EB0-4FEC-ACAE-8135B18909D7}|LinQ\\EF_Core.csproj|solutionrelative:linq\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF1C0B5-0EB0-4FEC-ACAE-8135B18909D7}|LinQ\\EF_Core.csproj|c:\\users\\mk\\source\\repos\\linq\\linq\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF1C0B5-0EB0-4FEC-ACAE-8135B18909D7}|LinQ\\EF_Core.csproj|solutionrelative:linq\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808095432_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LinQ\\Migrations\\20250808095432_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808075753_AddTablesaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LinQ\\Migrations\\20250808075753_AddTablesaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF1C0B5-0EB0-4FEC-ACAE-8135B18909D7}|LinQ\\EF_Core.csproj|c:\\users\\mk\\source\\repos\\linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF1C0B5-0EB0-4FEC-ACAE-8135B18909D7}|LinQ\\EF_Core.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808075221_AddTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LinQ\\Migrations\\20250808075221_AddTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF1C0B5-0EB0-4FEC-ACAE-8135B18909D7}|LinQ\\EF_Core.csproj|c:\\users\\mk\\source\\repos\\linq\\linq\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF1C0B5-0EB0-4FEC-ACAE-8135B18909D7}|LinQ\\EF_Core.csproj|solutionrelative:linq\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808073614_AddCategoryIdentity22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LinQ\\Migrations\\20250808073614_AddCategoryIdentity22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808073736_AddCategoryIdentity222.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LinQ\\Migrations\\20250808073736_AddCategoryIdentity222.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808072756_AddCategoryIdentity1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LinQ\\Migrations\\20250808072756_AddCategoryIdentity1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EFCoreDb/True/SqlTable/dbo.Categories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808072401_AddCategoryIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LinQ\\Migrations\\20250808072401_AddCategoryIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808072243_AddCategoryIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LinQ\\Migrations\\20250808072243_AddCategoryIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808071114_AddCategory1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LinQ\\Migrations\\20250808071114_AddCategory1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EFCoreDb/True/SqlTable/dbo.Blogs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "LinQ\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Models\\Car.cs*",
+              "RelativeToolTip": "LinQ\\Models\\Car.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA8wBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:51:41.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250808115119_Harray.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808115119_Harray.cs",
+              "RelativeDocumentMoniker": "LinQ\\Migrations\\20250808115119_Harray.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808115119_Harray.cs",
+              "RelativeToolTip": "LinQ\\Migrations\\20250808115119_Harray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:51:20.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250808114851_Harray.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808114851_Harray.cs",
+              "RelativeDocumentMoniker": "LinQ\\Migrations\\20250808114851_Harray.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808114851_Harray.cs",
+              "RelativeToolTip": "LinQ\\Migrations\\20250808114851_Harray.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:48:52.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "LinQ\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Models\\Blog.cs",
+              "RelativeToolTip": "LinQ\\Models\\Blog.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADgvxQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T07:40:44.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "LinQ\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\ApplicationDBContext.cs*",
+              "RelativeToolTip": "LinQ\\ApplicationDBContext.cs*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:32:18.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250808114431_ONEToMany.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808114431_ONEToMany.cs",
+              "RelativeDocumentMoniker": "LinQ\\Migrations\\20250808114431_ONEToMany.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808114431_ONEToMany.cs",
+              "RelativeToolTip": "LinQ\\Migrations\\20250808114431_ONEToMany.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwEgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:44:32.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LinQ\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Models\\Book.cs",
+              "RelativeToolTip": "LinQ\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T07:53:26.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "LinQ\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Models\\Post.cs",
+              "RelativeToolTip": "LinQ\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T07:36:54.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogImage.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Models\\BlogImage.cs",
+              "RelativeDocumentMoniker": "LinQ\\Models\\BlogImage.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Models\\BlogImage.cs",
+              "RelativeToolTip": "LinQ\\Models\\BlogImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T07:47:28.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250808095432_test.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808095432_test.cs",
+              "RelativeDocumentMoniker": "LinQ\\Migrations\\20250808095432_test.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808095432_test.cs",
+              "RelativeToolTip": "LinQ\\Migrations\\20250808095432_test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T09:54:33.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250808075753_AddTablesaa.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808075753_AddTablesaa.cs",
+              "RelativeDocumentMoniker": "LinQ\\Migrations\\20250808075753_AddTablesaa.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808075753_AddTablesaa.cs",
+              "RelativeToolTip": "LinQ\\Migrations\\20250808075753_AddTablesaa.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T07:57:54.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250808075221_AddTables.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808075221_AddTables.cs",
+              "RelativeDocumentMoniker": "LinQ\\Migrations\\20250808075221_AddTables.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808075221_AddTables.cs",
+              "RelativeToolTip": "LinQ\\Migrations\\20250808075221_AddTables.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T07:52:22.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Program.cs",
+              "RelativeDocumentMoniker": "LinQ\\Program.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Program.cs",
+              "RelativeToolTip": "LinQ\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T07:15:55.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250808073614_AddCategoryIdentity22.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808073614_AddCategoryIdentity22.cs",
+              "RelativeDocumentMoniker": "LinQ\\Migrations\\20250808073614_AddCategoryIdentity22.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808073614_AddCategoryIdentity22.cs",
+              "RelativeToolTip": "LinQ\\Migrations\\20250808073614_AddCategoryIdentity22.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T07:36:15.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Employee.cs",
+              "RelativeDocumentMoniker": "LinQ\\Employee.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Employee.cs",
+              "RelativeToolTip": "LinQ\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T07:35:46.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250808073736_AddCategoryIdentity222.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808073736_AddCategoryIdentity222.cs",
+              "RelativeDocumentMoniker": "LinQ\\Migrations\\20250808073736_AddCategoryIdentity222.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808073736_AddCategoryIdentity222.cs",
+              "RelativeToolTip": "LinQ\\Migrations\\20250808073736_AddCategoryIdentity222.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T07:37:37.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250808072243_AddCategoryIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808072243_AddCategoryIdentity.cs",
+              "RelativeDocumentMoniker": "LinQ\\Migrations\\20250808072243_AddCategoryIdentity.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808072243_AddCategoryIdentity.cs",
+              "RelativeToolTip": "LinQ\\Migrations\\20250808072243_AddCategoryIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T07:22:44.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.Categories [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EFCoreDb/True/SqlTable/dbo.Categories.sql",
+              "ToolTip": "dbo.Categories [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-08T07:15:35.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250808072401_AddCategoryIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808072401_AddCategoryIdentity.cs",
+              "RelativeDocumentMoniker": "LinQ\\Migrations\\20250808072401_AddCategoryIdentity.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808072401_AddCategoryIdentity.cs",
+              "RelativeToolTip": "LinQ\\Migrations\\20250808072401_AddCategoryIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T07:24:02.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250808072756_AddCategoryIdentity1.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808072756_AddCategoryIdentity1.cs",
+              "RelativeDocumentMoniker": "LinQ\\Migrations\\20250808072756_AddCategoryIdentity1.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808072756_AddCategoryIdentity1.cs",
+              "RelativeToolTip": "LinQ\\Migrations\\20250808072756_AddCategoryIdentity1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T07:27:57.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250808071114_AddCategory1.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808071114_AddCategory1.cs",
+              "RelativeDocumentMoniker": "LinQ\\Migrations\\20250808071114_AddCategory1.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\LinQ\\LinQ\\Migrations\\20250808071114_AddCategory1.cs",
+              "RelativeToolTip": "LinQ\\Migrations\\20250808071114_AddCategory1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T07:11:15.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.Blogs [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EFCoreDb/True/SqlTable/dbo.Blogs.sql",
+              "ToolTip": "dbo.Blogs [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-07T13:30:25.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
