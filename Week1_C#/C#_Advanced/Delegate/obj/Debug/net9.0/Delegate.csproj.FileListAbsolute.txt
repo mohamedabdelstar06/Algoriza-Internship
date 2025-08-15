@@ -1,0 +1,14 @@
+C:\Users\MK\source\repos\C#_Advanced\Delegate\bin\Debug\net9.0\Delegate.exe
+C:\Users\MK\source\repos\C#_Advanced\Delegate\bin\Debug\net9.0\Delegate.deps.json
+C:\Users\MK\source\repos\C#_Advanced\Delegate\bin\Debug\net9.0\Delegate.runtimeconfig.json
+C:\Users\MK\source\repos\C#_Advanced\Delegate\bin\Debug\net9.0\Delegate.dll
+C:\Users\MK\source\repos\C#_Advanced\Delegate\bin\Debug\net9.0\Delegate.pdb
+C:\Users\MK\source\repos\C#_Advanced\Delegate\obj\Debug\net9.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MK\source\repos\C#_Advanced\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\MK\source\repos\C#_Advanced\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfo.cs
+C:\Users\MK\source\repos\C#_Advanced\Delegate\obj\Debug\net9.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\MK\source\repos\C#_Advanced\Delegate\obj\Debug\net9.0\Delegate.dll
+C:\Users\MK\source\repos\C#_Advanced\Delegate\obj\Debug\net9.0\refint\Delegate.dll
+C:\Users\MK\source\repos\C#_Advanced\Delegate\obj\Debug\net9.0\Delegate.pdb
+C:\Users\MK\source\repos\C#_Advanced\Delegate\obj\Debug\net9.0\Delegate.genruntimeconfig.cache
+C:\Users\MK\source\repos\C#_Advanced\Delegate\obj\Debug\net9.0\ref\Delegate.dll

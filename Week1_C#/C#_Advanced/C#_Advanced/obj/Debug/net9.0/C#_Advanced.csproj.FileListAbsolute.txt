@@ -1,0 +1,14 @@
+C:\Users\MK\source\repos\C#_Advanced\C#_Advanced\bin\Debug\net9.0\C#_Advanced.exe
+C:\Users\MK\source\repos\C#_Advanced\C#_Advanced\bin\Debug\net9.0\C#_Advanced.deps.json
+C:\Users\MK\source\repos\C#_Advanced\C#_Advanced\bin\Debug\net9.0\C#_Advanced.runtimeconfig.json
+C:\Users\MK\source\repos\C#_Advanced\C#_Advanced\bin\Debug\net9.0\C#_Advanced.dll
+C:\Users\MK\source\repos\C#_Advanced\C#_Advanced\bin\Debug\net9.0\C#_Advanced.pdb
+C:\Users\MK\source\repos\C#_Advanced\C#_Advanced\obj\Debug\net9.0\C#_Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MK\source\repos\C#_Advanced\C#_Advanced\obj\Debug\net9.0\C#_Advanced.AssemblyInfoInputs.cache
+C:\Users\MK\source\repos\C#_Advanced\C#_Advanced\obj\Debug\net9.0\C#_Advanced.AssemblyInfo.cs
+C:\Users\MK\source\repos\C#_Advanced\C#_Advanced\obj\Debug\net9.0\C#_Advanced.csproj.CoreCompileInputs.cache
+C:\Users\MK\source\repos\C#_Advanced\C#_Advanced\obj\Debug\net9.0\C#_Advanced.dll
+C:\Users\MK\source\repos\C#_Advanced\C#_Advanced\obj\Debug\net9.0\refint\C#_Advanced.dll
+C:\Users\MK\source\repos\C#_Advanced\C#_Advanced\obj\Debug\net9.0\C#_Advanced.pdb
+C:\Users\MK\source\repos\C#_Advanced\C#_Advanced\obj\Debug\net9.0\C#_Advanced.genruntimeconfig.cache
+C:\Users\MK\source\repos\C#_Advanced\C#_Advanced\obj\Debug\net9.0\ref\C#_Advanced.dll
